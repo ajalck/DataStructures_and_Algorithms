@@ -4,4 +4,5 @@ use (
 	./dataStructures/BinaryHeap
 	./dataStructures/Graph
 	./dataStructures/Trie
+	./leetcode
 )
